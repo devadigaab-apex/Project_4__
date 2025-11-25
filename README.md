@@ -5,4 +5,4 @@ USAGE:
 
 
 
-python dot_plot.py .tsv
+python boxplot_genesexp.py nkx2_1_expression.tsv
