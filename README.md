@@ -2,4 +2,7 @@ Generates a gene expression boxplot for “NKX2-1” gene in Primary Tumor (PT) 
 
 USAGE: 
 ./extractdata.sh
+
+
+
 python dot_plot.py .tsv
